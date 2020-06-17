@@ -1,3 +1,3 @@
-New change added.
+# About me
 
-We are adding one more line here.
+This is my about me project. It's not *everything* about me, but it's a start.
